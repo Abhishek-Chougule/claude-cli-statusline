@@ -11,6 +11,9 @@ directly in the terminal status line**.
 
 # Preview
 
+<img width="1224" height="107" alt="image" src="https://github.com/user-attachments/assets/349409e9-4c73-4bcf-b6f7-adb7c8919394" />
+
+
     ◆ Claude │ █████░░░░░░ 42% │ ↓12.4k ↑1.1k │ cache r:2.1k/w:500 │ Σ 20k/5k │ +120/-30 │ ⚡350ms ⏱4s │ $0.0123
 
 ------------------------------------------------------------------------
